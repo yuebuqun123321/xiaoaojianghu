@@ -6,5 +6,6 @@ public class JianFa {
 		System.out.println("i just linten east success!!");
 		System,out.println("i am your father");
 		System.out.println("test ssh");
+		System.out.println("you buxing, i give you kuihuabaodian!");
 	}
 }
