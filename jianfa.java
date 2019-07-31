@@ -4,5 +4,6 @@ public class JianFa {
 		System.out.println("no no ");
 		System.out.println("you say no i say yes!!!");
 		System.out.println("i just linten east success!!");
+		System,out.println("i am your father");
 	}
 }
